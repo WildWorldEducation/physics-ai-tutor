@@ -805,7 +805,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 584069529}
-  awsSecret: {fileID: 4900000, guid: bc76a63babfa41546bd91b8bc21f3892, type: 3}
+  awsSecret: {fileID: 4900000, guid: 69f77ccf513500e46b2495dd4262c169, type: 3}
   animationBehaviour: {fileID: 1727423997}
 --- !u!114 &341455088
 MonoBehaviour:
