@@ -24,7 +24,7 @@ public class TTSResponseBehaviour : MonoBehaviour
     public async void Response(string chatGPTResponse)
     {
         // Get a key using another account, not root.
-        var credentials = new BasicAWSCredentials(accessKey: "AKIA6RPUV6MBZWYENGMV", secretKey: awsSecret.text);
+        var credentials = new BasicAWSCredentials(accessKey: "AKIA6RPUV6MB4F3KBSVO", secretKey: awsSecret.text);
         var client = new AmazonPollyClient(credentials, Amazon.RegionEndpoint.USEast1);
 
         var request = new SynthesizeSpeechRequest()
