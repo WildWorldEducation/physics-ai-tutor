@@ -13,11 +13,10 @@ A simple animated chatbot, currently programmed to answer questions about physic
 ## Built With
 
 * Unity
-
-# AI Physics Tutor
-Using ChatGPT API, 
-Speech to text / Text to speech,
-Mixamo animation.
+* OpenAI Completions
+* AWS Polly
+* OpenAI Whisper
+* Mixamo animation.
 
 
 
